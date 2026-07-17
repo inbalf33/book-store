@@ -1,1 +1,2 @@
-mode=test
+mode=production
+fallback=test
